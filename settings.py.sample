@@ -1,0 +1,16 @@
+# coding:utf-8
+
+common_data = {
+    'osVersion': '7.1.1',
+    'deviceModel': 'IPHONE_MOBILE',
+    'appVersion': '2.1.3',
+    'mobileVersion': '7.1.1',
+    'channelCode': '200256'
+}
+
+account_list = [
+    {
+        'accNbr': '18086808650',
+        'password': '1357525',
+    },
+]
