@@ -11,6 +11,6 @@ common_data = {
 account_list = [
     {
         'accNbr': '18086808650',
-        'password': '1357525',
+        'password': 'xxxxxx',
     },
 ]
